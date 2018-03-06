@@ -1,4 +1,12 @@
-.about {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 10rem;
+.tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 20px 22px;
+    font-size: 20px;
+    width: 33.3%;
+    transition: 0.3s;
 }
