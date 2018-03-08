@@ -46,8 +46,7 @@ li a{
     border-color: #dddddd;
     background-color: #ffffff;
     height:750px;
-   
-}
+   }
 
 .about{
     color:#4aaaa5;
@@ -70,18 +69,7 @@ p{
     padding:20px;
     line-height: 1.5; 
 }
-footer{
-    padding:20px;
-    background-color: #666666;
-    text-align: center;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    color: #ffffff;
-    border-top: 5px solid #4aaaa5;
-    left:0;
-    bottom:0;
-    width:100%;
-    position:absolute;
-}
+
 .contact{
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777777;
@@ -99,4 +87,15 @@ textarea{
     margin-bottom: 20px;
     
 }
-
+footer{
+    padding:20px;
+    background-color: #666666;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #ffffff;
+    border-top: 5px solid #4aaaa5;
+    left:0;
+    bottom:0;
+    width:100%;
+    position:absolute;
+}
