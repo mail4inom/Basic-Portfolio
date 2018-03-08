@@ -1,13 +1,7 @@
 body{
     background-image: url("brickwall.jpeg");
+}
 
-}
-.head{
-    background-color:#ffffff;
-    border-color: #cccccc;
-    height: 60px;
-    width:100%; 
-}
 header{
     background-color:#ffffff;
     border-color: #cccccc;
@@ -54,13 +48,7 @@ li a{
     height:750px;
    
 }
-#mainContentPort{
-    width:960px;
-    margin:10px auto;
-    border-color: #dddddd;
-    background-color: #ffffff;
-    height:750x;
-}
+
 .about{
     color:#4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
