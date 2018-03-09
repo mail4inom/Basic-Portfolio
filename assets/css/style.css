@@ -97,6 +97,10 @@ button{
     color: #ffffff;
     text-align: center;
     }
+    button:active{
+        background: #666666;
+        color: #4aaaa5;
+    }
 footer{
     padding:20px;
     background-color: #666666;
